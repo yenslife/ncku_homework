@@ -1,0 +1,10 @@
+main.o
+main
+debugger
+CMakeLists.txt
+.main.swp
+cmake-build-debug
+debugger.dSYM/Contents
+.vscode
+.idea
+info.plist
