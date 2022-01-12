@@ -1,0 +1,8 @@
+Location {
+  protocol: ip,
+  host: 193.55.28.30,
+  port: (default),
+  pathname: /windowLocatio,
+  search: ?,
+  hash: #,
+}
